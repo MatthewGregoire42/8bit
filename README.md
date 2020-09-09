@@ -68,7 +68,7 @@ As written, this program goes through all triangular numbers under 255, then loo
 
 ## Future work
 
-Next summer, if I have the time, here are some improvements I'd like to make:
+In the future, if I have the time, here are some improvements I'd like to make:
 
 - Increase the capability of the ALU, to support logical operations and shifts
 - Add a second instruction register to allow for multiple-byte instructions
